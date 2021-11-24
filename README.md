@@ -1,5 +1,5 @@
 # AI_Bootcamp_Project   
-## Project   
+## Section2 Project   
 ### 데이터 셋: https://www.kaggle.com/arashnic/hr-analytics-job-change-of-data-scientists   
 ### 프로젝트 주제: HR자료를 바탕으로 이직자 예측   
 #### 1)데이터 셋을 선택한 이유와 데이터 셋의 특징 그리고 문제 정의   
