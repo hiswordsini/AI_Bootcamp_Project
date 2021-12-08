@@ -46,5 +46,15 @@
 1.  모델 분석 결과 모델이 관측치를 예측하기 위해 도시개발지수, 회사규모, 전공계열 같은 특성을 주로 활용한 것을 알 수 있다.   
 2.  모델의 예측에 도움이 될만한 특성은 각 특성마다 가장 많은 이직 확률을 가지고 있는 범주를 하나씩 찾아서 데이터마다 그러한 값을 가지고 있는 특성의 개수를 세서 점수화 한 후 하나의 특성으로 만들면 모델 예측에 도움이 될 만한 새로운 특성이 될 것 같습니다.   
 
+## Section4 Project
+### 프로젝트 주제: CNN과 LSTM을 이용한 Image 캡션 생성기
+#### 프로젝트 발표: https://www.youtube.com/watch?v=pX5VlpkkO6Q&list=PL6KyBmGjLPiuvgb63ISxVpM7_g4qZmwOr&index=11
 
+## Codestates Project1
+### 프로젝트 주제: Flask를 이용한 Face Recognition App
+#### 프로젝트 발표: https://www.youtube.com/watch?v=xW24L0q0DKM&list=PL6KyBmGjLPiuDUx2adw_Vqg3XqreXoOd9&index=15
+
+## Codestates Project2
+### 프로젝트 주제: Python 주식 자동 매매
+#### 프로젝트 발표: https://www.youtube.com/watch?v=_Ow0rVLFvRA&list=PL6KyBmGjLPitXPZEmcU3WOxA8ZiLP_XpQ&index=6
 
